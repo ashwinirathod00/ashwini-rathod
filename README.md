@@ -16,7 +16,7 @@
 - Software Testing
 
 📌 Projects
-- Java Programs
+- employee management system
 - Digital Queue Management System
 - Tiffin Service System
 
